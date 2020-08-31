@@ -1,0 +1,66 @@
+header{
+
+    height: 80px;
+    padding: 5px;
+    margin: -10px;
+    color: blanchedalmond;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color:red;
+    font-size:30px;
+}
+
+
+.texto{
+
+margin-top: 50px;
+font-family: Arial;
+text-align: center;
+ color: dimgray;
+
+}
+
+figure{
+
+padding: 0px;
+margin: auto;
+width: 300px;
+height: 250px;
+
+}
+
+figure img{
+
+    width: 300px;
+    height: auto;
+}
+
+figcaption{
+    margin-top: 10px;
+    font-family: Arial;
+    text-align: center;
+    color: darkslategray;
+}
+
+figure{
+
+ padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border: 1px solid #000000;
+}
+
+footer{
+
+    color:white;
+    font-family: Arial;
+    text-align: center;
+    background-color: red;
+    
+    height: 80px;
+    padding: 5px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+
+}

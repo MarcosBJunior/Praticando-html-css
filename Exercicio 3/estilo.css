@@ -1,0 +1,74 @@
+body{
+    background-image: url("imagens/bg.jpg");
+    font-family: Arial;
+}
+
+#formulario{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    box-shadow: 0px 0px 5px;
+    border-radius: 10px;
+    background-color: #FFEBCD;
+    left: 500px;
+    top: 200px;
+    padding: 5px;
+}
+
+p{
+
+position: relative;
+top: -15px;
+text-align: center;
+font-size: 30px;
+}
+
+.campo span{
+
+    position: relative;
+    left: 20px;
+    top: -30px;
+}
+
+#formulario #campo{
+    position: relative;
+    display: block;
+}
+
+.campos{
+    position: relative;
+    left: 45px;
+    top: -30px;
+    width: 200px;
+    height: 25px;
+}
+
+.campos2{
+    position: relative;
+    left: 39px;
+    top: -20px;
+    width: 200px;
+    height: 25px;
+}
+
+
+a{
+ position: relative;
+    left: 160px;
+    top: -15px;
+    font-size: 13px;
+    color: purple;
+}
+
+#entrar{
+     position: relative;
+    top: 5px;
+    left: 10px;
+    border-radius: 10px;
+    width: 280px;
+    height: 55px;
+    border-style: ridge;
+    bottom: 0.5em;
+    background-color:peru;
+    font-size: 15px;
+}

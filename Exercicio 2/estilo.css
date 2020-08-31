@@ -1,0 +1,75 @@
+body{
+    font-family:"Comic Sans MS";
+    width: 500px;
+    height: 700px;    
+}
+
+.reserva{
+    text-align: center;
+    font-size:22pt;
+    color:darkcyan;
+    position: relative;
+    top: -25px;
+}
+
+.dist{
+    position: absolute;
+    right: 15px;
+    top: 235px;
+}
+
+#marca{
+    right: 25px;
+    top: 410px;
+}
+
+figure{
+    position: absolute;
+    right: 500px;
+    box-shadow: 5px 5px 10px #000;
+    width: 350px;
+    height: 650px;
+    border-radius: 25px;
+    padding:0px;
+    margin: auto;
+}
+
+.dias {
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+
+.horario{
+    display: inline-block;
+    text-align: center;
+}
+
+#cafe{
+    border-radius: 25px 25px 0px 0px;
+    width: 350px;
+    height: auto;
+}
+
+.estrelas img{
+    max-width: 150px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+    position:relative;
+    top: -30px; 
+    left: 10px;"
+}
+
+h1{
+    position:relative; 
+    top: -10px; 
+    left: 10px;
+}
+
+.clock{
+    position:relative; 
+    top: -30px; 
+    left: 50px;"
+}
+
